@@ -1,0 +1,12 @@
+{
+  "domain": "emc2301",
+  "name": "EMC2301 RPM-Based PWM Fan Controller",
+  "documentation": "https://www.home-assistant.io/integrations/emc2301",
+  "requirements": [
+    "i2csense==0.0.4",
+    "smbus-cffi==0.5.1",
+    "bme280spi==0.2.0"
+  ],
+  "codeowners": [],
+  "iot_class": "local_push"
+}
